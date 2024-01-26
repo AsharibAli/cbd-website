@@ -72,7 +72,7 @@ const page = () => {
                   d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4"
                 ></path>
               </svg>
-              npx create-blast-dapp (your dapp name)
+              <p>{"npx create-blast-dapp <your-dapp-name>"}</p>
             </Link>
           </div>
         </div>
