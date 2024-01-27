@@ -25,9 +25,11 @@ const page = () => {
       <section class="bg-white dark:bg-gray-900">
         <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-12">
           <Link
-            href="#"
+            href="https://twitter.com/CreateBlastDapp/status/1750945840410337678?s=20"
             class="inline-flex justify-between items-center py-1 px-1 pr-4 mb-7 text-sm text-gray-700 bg-gray-100 rounded-full dark:bg-yellow-300 dark:text-black hover:bg-yellow-500 dark:hover:bg-yellow-500"
             role="alert"
+            target="_blank"
+            rel="noopener noreferrer"
           >
             <span class="text-sm font-medium">
               Introducing create-blast-dapp
